@@ -1,4 +1,4 @@
-(Copy Everything Below This Line)
+
 Project 1: Walmart Sales Analysis
 Project Overview
 
