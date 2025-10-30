@@ -23,3 +23,11 @@ Each project is contained within its own folder. Please click on a project title
 *   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
 
 ---
+
+### [Project 3: Inventory and Supplier Analysis](./Day3_Inventory_Analysis/)
+
+*   **Objective:** To analyze product and supplier data to identify relationship gaps and to perform a basic time-series analysis on orders.
+*   **Skills Demonstrated:** `LEFT JOIN`, `RIGHT JOIN` (and its logical workarounds), `IS NULL`, basic Date Functions.
+*   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
+
+---
