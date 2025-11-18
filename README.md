@@ -31,3 +31,11 @@ Each project is contained within its own folder. Please click on a project title
 *   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
 
 ---
+
+### [Project 4: Employee Database Analysis](./Day4_Employee_Analysis/)
+
+*   **Objective:** To synthesize data from multiple tables into a comprehensive employee report and to analyze the company's hierarchical structure.
+*   **Skills Demonstrated:** Multi-table `INNER JOIN`, `SELF JOIN` with `LEFT JOIN`, and String Functions.
+*   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
+
+---
