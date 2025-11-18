@@ -39,3 +39,11 @@ Each project is contained within its own folder. Please click on a project title
 *   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
 
 ---
+
+### [Project 5: Advanced Movie Analysis](./Day5_Movie_Analysis/)
+
+*   **Objective:** To perform advanced analytical queries to rank movies within genres and compare individual ratings to genre averages.
+*   **Skills Demonstrated:** Window Functions (`RANK`, `ROW_NUMBER`, `AVG OVER`), and Common Table Expressions (CTEs).
+*   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
+
+---
