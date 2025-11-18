@@ -67,7 +67,7 @@ INNER JOIN
 The most complex task was to identify each employee's manager. Since a manager is also an employee, this required joining the `Employees` table to itself. A `LEFT JOIN` was used to ensure that top-level employees without a manager (like the CEO) were included in the report.
 
 **Query:**
-```sql
+sql
 SELECT
     e.first_name || ' ' || e.last_name AS employee_name,
     m.first_name || ' ' || m.last_name AS manager_name
@@ -81,4 +81,4 @@ LEFT JOIN
 Result:
 This query successfully maps out the direct reporting structure within the company, a crucial piece of HR analysis.
 
-![alt text](./task3_employee_manager_hierarchy.png)
+![Organizational Hierarchy](./task3_employee_manager_hierarchy.png)
