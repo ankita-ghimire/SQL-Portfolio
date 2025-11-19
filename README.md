@@ -47,3 +47,11 @@ Each project is contained within its own folder. Please click on a project title
 *   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
 
 ---
+
+### [Project 6: Healthcare Data Pivoting](./Day6_Pivoting_Data/)
+
+*   **Objective:** To transform a long-format transactional dataset into a wide-format summary report using conditional aggregation.
+*   **Skills Demonstrated:** Advanced `CASE` Statements, Conditional Aggregation, and Data Pivoting.
+*   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
+
+---
