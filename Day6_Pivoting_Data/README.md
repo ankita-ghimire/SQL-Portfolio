@@ -17,8 +17,8 @@ Before pivoting, the continuous patient_age data needed to be grouped into discr
 Query:
 code SQL
 
-    
 SELECT
+
     visit_id,
     patient_age,
     CASE
@@ -26,7 +26,9 @@ SELECT
         WHEN patient_age >= 18 AND patient_age < 65 THEN 'Adult'
         ELSE 'Senior'
     END AS age_group
+    
 FROM
+
     Patient_Visits;
 
   
@@ -60,14 +62,16 @@ This query demonstrates the fundamental logic of pivoting data by creating separ
 
 3. Building the Final Pivot Table
 
-By combining the age_group categorization with conditional aggregation and grouping by the new category, the final pivot table was constructed. \
+By combining the age_group categorization with conditional aggregation and grouping by the new category, the final pivot table was constructed.
 
 Query:
 code SQL
 
     
 SELECT
+
     CASE
+    
         WHEN patient_age < 18 THEN 'Child'
         WHEN patient_age >= 18 AND patient_age < 65 THEN 'Adult'
         ELSE 'Senior'
