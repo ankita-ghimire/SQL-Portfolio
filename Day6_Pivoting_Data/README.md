@@ -18,7 +18,6 @@ Query:
 code SQL
 
 SELECT
-
     visit_id,
     patient_age,
     CASE
@@ -28,7 +27,6 @@ SELECT
     END AS age_group
     
 FROM
-
     Patient_Visits;
 
   
@@ -69,9 +67,7 @@ code SQL
 
     
 SELECT
-
     CASE
-    
         WHEN patient_age < 18 THEN 'Child'
         WHEN patient_age >= 18 AND patient_age < 65 THEN 'Adult'
         ELSE 'Senior'
