@@ -57,7 +57,7 @@ GROUP BY
     year_added
 ORDER BY
     year_added ASC;
-```**Supporting Data:**
+Supporting Data:
 ![Screenshot showing the trend of content added per year](./finding_2_content_trend.png)
 
 **Business Insight:** This trend clearly illustrates Netflix's aggressive content expansion strategy during the late 2010s, likely a strategic move to build a large library in the face of growing competition in the streaming market.
@@ -69,7 +69,7 @@ ORDER BY
 To understand the content mix more deeply, the most common genre for both Movies and TV Shows was found independently. This required an advanced query using a CTE and the `RANK()` window function to find the top genre *within each content type*.
 
 **Query:**
-```sql
+sql
 WITH GenreRanking AS (
     SELECT
         type,
