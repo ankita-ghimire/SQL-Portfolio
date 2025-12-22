@@ -1,9 +1,8 @@
 # My SQL Data Analysis Portfolio
 
-Welcome to my portfolio! This repository contains a collection of projects I have completed to develop and showcase my skills in SQL for data analysis.
+Welcome! I am an aspiring Data Analyst with a passion for turning raw data into actionable insights. This repository documents my intensive journey to build practical, hands-on SQL skills, moving from fundamental concepts to advanced analytical techniques.
 
-Each project is contained within its own folder. Please click on a project title below to see the detailed analysis, code, and key findings.
-
+Each project is a self-contained analysis designed to solve a real-world business problem. Please click on any project title to see the detailed analysis, including the SQL queries, the results (with screenshots), and the key business insights derived from the data.
 ---
 
 ## Projects
@@ -55,3 +54,16 @@ Each project is contained within its own folder. Please click on a project title
 *   **Tools:** SQL, Python (`pandasql`), Kaggle Notebooks.
 
 ---
+### [Capstone Project: Netflix Content Analysis](./Capstone_Netflix_Analysis/)
+
+Objective: To conduct an end-to-end analysis of the Netflix content catalog to identify key trends in production, popular genres, and overall content strategy.
+
+Skills Demonstrated: Synthesizing a full range of SQL skills—from data cleaning and trend analysis to advanced ranking—to derive and present actionable business insights.
+
+---
+
+Contact
+
+Thank you for reviewing my portfolio. I am actively seeking opportunities in data analysis and would be thrilled to connect.
+
+  LinkedIn: www.linkedin.com/in/ankita-ghimire-593170283
