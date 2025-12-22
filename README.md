@@ -66,4 +66,4 @@ Contact
 
 Thank you for reviewing my portfolio. I am actively seeking opportunities in data analysis and would be thrilled to connect.
 
-  LinkedIn: www.linkedin.com/in/ankita-ghimire-593170283
+  LinkedIn: www.linkedin.com/in/ankita-ghimire-cs
