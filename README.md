@@ -61,6 +61,7 @@ Objective: To conduct an end-to-end analysis of the Netflix content catalog to i
 Skills Demonstrated: Synthesizing a full range of SQL skills—from data cleaning and trend analysis to advanced ranking—to derive and present actionable business insights.
 
 ---
+###"📂 Current Project: Intensive SQL Path: Remote Readiness"
 
 Contact
 
