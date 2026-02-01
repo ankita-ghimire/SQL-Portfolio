@@ -18,4 +18,4 @@ In this path, I document not just the code, but the **"Why"** behind every query
 3. **Analytical Insight:** What the data tells the business stakeholders.
 
 ---
-*This folder is updated daily as I progress through the roadmap to Senior-level Remote Data Analysis.*
+*This folder is updated daily as I progress through the roadmap to Senior-level Data Analysis.*
