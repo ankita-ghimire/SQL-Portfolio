@@ -22,3 +22,10 @@ FROM Scooter_Logs
 GROUP BY city
 HAVING SUM(maintenance_cost) > 500
 ORDER BY net_profit ASC;
+
+```
+Data Analyst Logic: Integrity & Impact
+
+    Data Integrity: When I see $500 revenue but 0 units sold, I investigate for data entry errors or service adjustments before reporting.
+
+    Business Impact: I focus my analysis on high-revenue categories (Scale) because a 10% improvement in a $1M category is worth more than doubling a $10k category.
