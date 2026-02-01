@@ -10,6 +10,7 @@ The goal of this phase is to move beyond basic syntax and focus on **Advanced Bu
 | :--- | :--- | :--- | :--- |
 | **Day 1** | Filtering & Sorting | Data Extraction & Noise Reduction | [View Documentation](./Day1_Filtering_and_Sorting.md) |
 | **Day 2** | Aggregations & Grouping | Business KPIs & Performance Logic | [View Documentation](./Day2_Aggregations_and_Business_Logic.md) |
+| **Day 3** | The Weaver (JOINs) | Gap Analysis & Cross-Table Logic | [View Documentation](./Day3_The_Weaver_Joins.md) |
 
 ## 🎯 The "Analyst First" Philosophy
 In this path, I document not just the code, but the **"Why"** behind every query. Every solution includes:
