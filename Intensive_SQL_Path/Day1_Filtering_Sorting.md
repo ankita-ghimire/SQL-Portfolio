@@ -12,8 +12,12 @@ The goal of Day 1 was to master data extraction and filtering. In a business con
 ## Practical Example: High-Value Confirmed Bookings
 **Scenario:** A manager needs a list of all confirmed destination cities where the booking value exceeds $500, sorted alphabetically.
 
+
 ```sql
 SELECT DISTINCT destination_city 
 FROM Bookings 
 WHERE payment_status = 'Confirmed' AND total_price > 500 
 ORDER BY destination_city ASC;
+```
+## By using DISTINCT, I ensure the final report is clean and actionable for the stakeholder, removing the need for them to manually filter duplicates.
+
