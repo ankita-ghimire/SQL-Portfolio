@@ -19,5 +19,5 @@ FROM Bookings
 WHERE payment_status = 'Confirmed' AND total_price > 500 
 ORDER BY destination_city ASC;
 ```
-## By using DISTINCT, I ensure the final report is clean and actionable for the stakeholder, removing the need for them to manually filter duplicates.
+ By using DISTINCT, I ensure the final report is clean and actionable for the stakeholder, removing the need for them to manually filter duplicates.
 
